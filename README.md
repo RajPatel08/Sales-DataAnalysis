@@ -1,44 +1,45 @@
-Sales Dashboard Analysis
-📊 Project Overview
+📊 Sales Dashboard Analysis
+🧠 Project Overview
 
-This Power BI project focuses on analyzing sales performance by cleaning, preparing, and structuring raw data to generate meaningful business insights.
-The dashboard provides an interactive view of key metrics such as Total Sales, Total Profit, Quantity Sold, and Sales by City, helping businesses track performance and make data-driven decisions.
+This project focuses on analyzing sales performance data using Power BI.
+The main objective was to clean, prepare, and structure raw data to create an interactive and insightful dashboard that helps track Sales, Profit, and Quantity Sold efficiently.
 
 🎯 Objectives
 
-Clean, prepare, and structure raw sales data for analysis.
+Clean and transform raw sales data into a structured format.
 
-Build dynamic visual dashboards for better data interpretation.
+Build an interactive Power BI dashboard.
 
-Compare sales, profit, and quantity across multiple time periods.
+Compare sales and profit across time periods and regions.
 
-Identify top/bottom performing regions and trends.
+Provide business insights for better decision-making.
 
-⚙️ Tools & Technologies Used
-Tool	Purpose
-Power BI	Dashboard creation, visualization, and interactivity
-DAX (Data Analysis Expressions)	Creating calculated measures and dynamic queries
-Excel / CSV	Data source for importing and preprocessing
-🧠 Key Insights
+⚙️ Tools & Technologies
 
-📈 Total Sales: 63M–68M across compared periods.
+Power BI – for dashboard design and visualization.
 
-💰 Total Profit: Increased from 6.3M to 6.8M.
+DAX (Data Analysis Expressions) – for creating measures and calculations.
 
-📦 Quantity Sold: Steady growth trend, indicating positive product performance.
+Excel / CSV files – for loading and preprocessing data.
 
-🌆 Sales by City: High sales concentration in metro cities such as Mumbai, Pune, and Bangalore.
+💡 Key Insights
 
-🗓️ Trend Analysis: Seasonal spikes visible around major festivals and clearance sales.
+📈 Sales increased from 63M to 68M over time.
 
-📍 Dashboard Features
+💰 Profit rose from 6.3M to 6.8M showing consistent growth.
 
-Interactive filters for date range comparisons.
+🌆 Major cities like Mumbai, Pune, and Bangalore had the highest sales.
 
-Comparison panels for Sales, Profit, and Quantity Sold.
+🕓 Seasonal patterns visible during clearance and festive sales.
 
-Geo-visualization map for Sales by City.
+🧩 Dashboard Features
 
-Time-series analysis for Sales Trend by Period.
+Interactive filters for date and category selection.
 
-Drill-through and cross-report features enabled.
+Comparison visuals for Sales, Profit, and Quantity.
+
+Sales trend line chart by period (2020–2024).
+
+Geo map visualization showing city-level performance.
+
+Drill-through and cross-report interactions enabled.
